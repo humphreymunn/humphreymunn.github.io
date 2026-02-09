@@ -1,3 +1,9 @@
+---
+title: "Research Capabilities"
+permalink: /capabilities.md
+layout: single
+---
+
 ## Research Capabilities
 
 - **Real-robot experimentation:** deployment, calibration, and debugging of learning-based controllers on legged and humanoid robots (including commercial and in-house platforms); diagnosis of hardware–software interaction failures; hands-on maintenance and repair of robotic platforms.
