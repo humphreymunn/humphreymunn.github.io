@@ -1,0 +1,20 @@
+title: "Humphrey Munn"
+description: "Robotics & Reinforcement Learning"
+url: "https://humphreymunn.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Humphrey Munn"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/humphreymunn"
+
