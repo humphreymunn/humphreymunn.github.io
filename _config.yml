@@ -24,3 +24,5 @@ defaults:
     values:
       author_profile: true
 
+author:
+  avatar: "/avatar.jpeg"
