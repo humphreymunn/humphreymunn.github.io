@@ -9,4 +9,5 @@ Hi — I’m **Humphrey Munn**, a robotics & reinforcement learning researcher.
 
 - [Publications](/publications.md)
 - [Research Capabilities](/capabilities.md)
+- [Videos](/videos.md)
 - [CV](/cv.pdf)
