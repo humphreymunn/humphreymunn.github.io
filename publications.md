@@ -14,6 +14,9 @@ We introduce **RAPT**, a lightweight, self-supervised deployment-time monitor fo
 
 [arXiv](https://arxiv.org/abs/2602.01515) · [Video](https://youtu.be/nAW1QfHK9ic)
 
+![RAPT]({{ "rapt_1.png" | relative_url }})
+![RAPT]({{ "rapt_2.png" | relative_url }})
+
 ---
 
 ## Whole-Body Control and Real-Robot Reinforcement Learning
@@ -25,6 +28,8 @@ H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard
 We study dynamic throwing with legged robots, requiring tight coordination between manipulation and locomotion. By optimising full-body reinforcement learning policies rather than arm-only control, our approach exploits whole-body momentum, counter-balancing, and coordinated dynamics. We demonstrate improved throwing range, accuracy, and stability on both a humanoid and an armed quadruped, with successful sim-to-real transfer to a physical humanoid platform.
 
 [Paper](https://ssl.linklings.net/conferences/acra/acra2025_proceedings/views/includes/files/pap114s2.pdf) · [PPT Slides with Videos]({{ "/slides_acra.pptx" | relative_url }}) · [Video](https://www.youtube.com/watch?v=QUfvToTtXww)
+
+![Whole-Body Dynamic Throwing]({{ "fig1_wholebody.jpg" | relative_url }})
 
 ---
 
@@ -38,6 +43,7 @@ We propose **GCR-PPO**, a scalable multi-objective extension to actor–critic r
 
 [arXiv](https://arxiv.org/abs/2509.14816) · [Video](https://youtu.be/Ckjx2BwN6gw) · [Code](https://github.com/humphreymunn/GCR-PPO)
 
+![GCR-PPO]({{ "icra.png" | relative_url }})
 ---
 
 ## Neuroevolution and Learning Structure
@@ -50,6 +56,7 @@ We investigate the relationship between network modularity and performance in re
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/10191234) · [Code](https://github.com/humphreymunn/ModularityNEAT)
 
+![Towards Understanding the Link Between Modularity and Performance]({{ "ijcnn.png" | relative_url }})
 ---
 
 ## Curriculum Learning and Environment Design
@@ -61,3 +68,5 @@ D. Howard, H. Munn, D. Dolcetti, J. Kannemeyer, N. Robinson
 We analyse how terrain generation methods influence curriculum learning for humanoid locomotion. Comparing noise-based generators with indirect encodings (CPPNs and GANs), we evaluate learning performance using representation-agnostic MAP-Elites descriptors computed directly from terrain geometry. Our results highlight systematic differences between generators and provide practical guidance for terrain design in curriculum RL.
 
 [Paper](https://dl.acm.org/doi/abs/10.1145/3512290.3528870)  · [Video](https://www.youtube.com/watch?v=jGfek3Dh18M)
+
+![Assessing Evolutionary Terrain Generation Methods]({{ "representations.png" | relative_url }})
