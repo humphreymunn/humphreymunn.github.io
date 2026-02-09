@@ -12,7 +12,7 @@ H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard
 
 We introduce **RAPT**, a lightweight, self-supervised deployment-time monitor for 50 Hz humanoid control. RAPT learns a probabilistic spatio-temporal model of nominal execution and detects predictive deviations with calibrated, per-dimension signals, enabling reliable online OOD detection under strict false-positive constraints. Beyond detection, RAPT supports post-hoc root-cause diagnosis via gradient-based temporal saliency and zero-shot LLM reasoning, providing actionable interpretability for real-world humanoid failures.
 
-[arXiv](https://arxiv.org/abs/2602.01515) · [Video](https://youtube.com)
+[arXiv](https://arxiv.org/abs/2602.01515) · [Video](https://youtu.be/nAW1QfHK9ic)
 
 ---
 
@@ -36,7 +36,7 @@ H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard
 
 We propose **GCR-PPO**, a scalable multi-objective extension to actor–critic reinforcement learning that explicitly resolves conflicts between objective-wise gradients. Using a multi-headed critic and priority-based gradient resolution, GCR-PPO improves scalability and robustness without significant computational overhead. Across IsaacLab manipulation and locomotion benchmarks, GCR-PPO achieves an average performance improvement of 9.5%, with larger gains on high-conflict tasks.
 
-[arXiv](https://arxiv.org/abs/2509.14816) · [Video](https://youtube.com) · [Code](https://github.com/humphreymunn/GCR-PPO)
+[arXiv](https://arxiv.org/abs/2509.14816) · [Video](https://youtu.be/Ckjx2BwN6gw) · [Code](https://github.com/humphreymunn/GCR-PPO)
 
 ---
 
