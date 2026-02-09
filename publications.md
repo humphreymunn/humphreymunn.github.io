@@ -24,7 +24,7 @@ H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard
 
 We study dynamic throwing with legged robots, requiring tight coordination between manipulation and locomotion. By optimising full-body reinforcement learning policies rather than arm-only control, our approach exploits whole-body momentum, counter-balancing, and coordinated dynamics. We demonstrate improved throwing range, accuracy, and stability on both a humanoid and an armed quadruped, with successful sim-to-real transfer to a physical humanoid platform.
 
-[Paper](https://ssl.linklings.net/conferences/acra/acra2025_proceedings/views/includes/files/pap114s2.pdf) · [PPT Slides with Videos]({{ "/slides_acra.pptx" | relative_url }})
+[Paper](https://ssl.linklings.net/conferences/acra/acra2025_proceedings/views/includes/files/pap114s2.pdf) · [PPT Slides with Videos]({{ "/slides_acra.pptx" | relative_url }}) · [Video](https://www.youtube.com/watch?v=QUfvToTtXww)
 
 ---
 
@@ -60,4 +60,4 @@ D. Howard, H. Munn, D. Dolcetti, J. Kannemeyer, N. Robinson
 
 We analyse how terrain generation methods influence curriculum learning for humanoid locomotion. Comparing noise-based generators with indirect encodings (CPPNs and GANs), we evaluate learning performance using representation-agnostic MAP-Elites descriptors computed directly from terrain geometry. Our results highlight systematic differences between generators and provide practical guidance for terrain design in curriculum RL.
 
-[Paper](https://dl.acm.org/doi/abs/10.1145/3512290.3528870)
+[Paper](https://dl.acm.org/doi/abs/10.1145/3512290.3528870)  · [Video](https://www.youtube.com/watch?v=jGfek3Dh18M)
