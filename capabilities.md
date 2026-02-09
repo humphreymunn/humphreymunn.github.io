@@ -1,6 +1,6 @@
 ---
 title: "Research Capabilities"
-permalink: /capabilities.md
+permalink: /capabilities/
 layout: single
 ---
 
