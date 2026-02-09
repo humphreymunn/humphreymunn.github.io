@@ -5,7 +5,7 @@ author_profile: true
 
 Hi — I’m **Humphrey Munn**, a robotics & reinforcement learning researcher.
 
-**Interests:** sim-to-real, humanoids, safety / OOD detection, control.
+**Interests:** sim-to-real, humanoids, safety / OOD detection, control, reinforcement learning methods.
 
 - [Publications](/publications/)
 - [Projects](/projects/)
