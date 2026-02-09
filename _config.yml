@@ -17,12 +17,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/humphreymunn"
-      
+  avatar: "/avatar.jpeg"
 defaults:
   - scope:
       path: ""
     values:
       author_profile: true
-
-author:
-  avatar: "/avatar.jpeg"
+  
