@@ -23,4 +23,5 @@ defaults:
       path: ""
     values:
       author_profile: true
-  
+analytics:
+  provider: "custom"
